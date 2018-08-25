@@ -2,6 +2,6 @@ const bar = 'first project';
 alert(bar);
 console.log(this);
 
-let obj = {
+let max = {
  name: 'GitHub' 
 };
