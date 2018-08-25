@@ -1,2 +1,7 @@
 const bar = 'first project';
-alert(bar)'
+alert(bar);
+console.log(this);
+
+let obj = {
+ name: 'GitHub' 
+};
