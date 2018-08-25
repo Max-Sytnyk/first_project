@@ -2,4 +2,9 @@ const bar = 'first project';
 alert(bar);
 console.log(this);
 
-let clone = 'clone';  
+
+let max = {
+ name: 'GitHub' 
+};
+
+const open = 'open';
